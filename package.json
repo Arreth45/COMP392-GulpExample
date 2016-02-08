@@ -1,0 +1,11 @@
+{
+  "name": "comp392-gulpexample",
+  "version": "1.0.0",
+  "description": "COMP392-Lesson4-Azure for COMP392 - Advanced Graphics @ Centennial College",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
